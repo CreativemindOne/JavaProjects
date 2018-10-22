@@ -9,6 +9,7 @@ public class WelcomeUser {
 		System.out.println("Enter your Name");
 		String name=userInput.next();
 		System.out.println("Hi git");
+		System.out.println("pushing from pc for final commit Oct21st");
 		
 		// TODO Auto-generated method stub
 
